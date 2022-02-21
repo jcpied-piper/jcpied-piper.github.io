@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Liu Lab
+title: Liu Lab test
 
 # Short description of your site
-description: Xiaole Shirley Liu Lab in DFCI
+description: Xiaole Shirley Liu Lab in DFCI test
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
